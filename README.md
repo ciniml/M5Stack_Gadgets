@@ -2,5 +2,5 @@
 
 ## 内容
 
-[M5Stack Fire用TPUケース](OuterCover/README.md)
+[M5Stack用TPUケース](OuterCover/README.md)
 
