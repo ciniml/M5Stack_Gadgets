@@ -1,4 +1,4 @@
-# M5Stack Fire用TPUカバー
+# M5Stack用TPUカバー
 
 ## 概要
 
@@ -6,12 +6,21 @@
 
 ![参考形状](M5Stack_Fire_OuterCover.png)
 
-M5Stack Fire用のTPUカバー。各ポートにアクセスするための穴や首掛け用のストラップを付けられるストラップホールが付いている。
+M5Stack用のTPUカバー。各ポートにアクセスするための穴や首掛け用のストラップを付けられるストラップホールが付いている。
 
 ## 内容
 
 * Design Spark Mechanical 4.0用の設計データ
 * 3Dプリンタ出力用STL
+
+| 対象M5Stack | 形式 |
+|:-----|:------|
+| M5Stack BASIC/GRAY | [Design Spark Mechanical](M5Stack_Basic_OuterCover.rsdoc) |
+| M5Stack BASIC/GRAY | [STL](M5Stack_Basic_OuterCover.stl) |
+| M5Stack BASIC/GRAY | [Cura Project](PSME_M5Stack_Basic_OuterCover.3mf) |
+| M5Stack Go/Fire | [Design Spark Mechanical](M5Stack_Fire_OuterCover.rsdoc) |
+| M5Stack Go/Fire | [STL](M5Stack_Fire_OuterCover.stl) |
+| M5Stack Go/Fire | [Cura Project](PSME_M5Stack_Fire_OuterCover.3mf) |
 
 ## 確認環境
 
