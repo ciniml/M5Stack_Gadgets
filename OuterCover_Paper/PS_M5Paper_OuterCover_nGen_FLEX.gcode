@@ -12,9 +12,9 @@
 M140 S70
 M105
 M190 S70
-M104 S230
+M104 S250
 M105
-M109 S230
+M109 S250
 M82 ;absolute extrusion mode
 M82 ;absolute extrusion mode
 G21       ;metric values
@@ -38724,24 +38724,25 @@ G90         ;absolute positioning
 M82 ;absolute extrusion mode
 M104 S0
 ;End of Gcode
-;SETTING_3 {"extruder_quality": ["[general]\\nversion = 4\\nname = nGen Default\
-;SETTING_3 \ndefinition = printrbot_simple\\n\\n[metadata]\\nintent_category = d
-;SETTING_3 efault\\nquality_type = normal\\nposition = 0\\ntype = quality_change
-;SETTING_3 s\\nsetting_version = 15\\n\\n[values]\\nconnect_infill_polygons = Tr
-;SETTING_3 ue\\nconnect_skin_polygons = True\\ninfill_pattern = gyroid\\ninfill_
-;SETTING_3 sparse_density = 10\\nmaterial_final_print_temperature = 230\\nmateri
-;SETTING_3 al_flow = 92\\nmaterial_flow_layer_0 = 97\\nmaterial_initial_print_te
-;SETTING_3 mperature = 230\\nmaterial_print_temperature = 230\\nminimum_interfac
-;SETTING_3 e_area = 4\\nretraction_amount = 5\\nretraction_speed = 30\\nspeed_pr
-;SETTING_3 int = 120\\nsupport_bottom_enable = False\\nsupport_infill_rate = 8\\
-;SETTING_3 nsupport_interface_density = 75\\nsupport_interface_enable = True\\ns
-;SETTING_3 upport_join_distance = 3\\nsupport_line_width = 0.2\\nsupport_pattern
-;SETTING_3  = gyroid\\nsupport_top_distance = 0.1\\nsupport_use_towers = False\\
-;SETTING_3 nsupport_wall_count = 1\\nsupport_xy_distance_overhang = 0.4\\nsuppor
-;SETTING_3 t_z_distance = 0.15\\ntop_bottom_pattern = lines\\ntop_bottom_pattern
-;SETTING_3 _0 = lines\\n\\n"], "global_quality": "[general]\\nversion = 4\\nname
-;SETTING_3  = nGen Default\\ndefinition = printrbot_simple\\n\\n[metadata]\\nqua
-;SETTING_3 lity_type = normal\\ntype = quality_changes\\nsetting_version = 15\\n
-;SETTING_3 \\n[values]\\nacceleration_enabled = False\\nadhesion_type = none\\nj
-;SETTING_3 erk_enabled = False\\nlayer_height = 0.2\\nmaterial_bed_temperature =
-;SETTING_3  70\\nsupport_enable = False\\nsupport_type = everywhere\\n\\n"}
+;SETTING_3 {"extruder_quality": ["[general]\\nversion = 4\\nname = nGen FLEX Def
+;SETTING_3 ault\\ndefinition = printrbot_simple\\n\\n[metadata]\\nintent_categor
+;SETTING_3 y = default\\nquality_type = normal\\nposition = 0\\ntype = quality_c
+;SETTING_3 hanges\\nsetting_version = 15\\n\\n[values]\\nconnect_infill_polygons
+;SETTING_3  = True\\nconnect_skin_polygons = True\\ninfill_pattern = gyroid\\nin
+;SETTING_3 fill_sparse_density = 10\\nmaterial_final_print_temperature = 250\\nm
+;SETTING_3 aterial_flow = 92\\nmaterial_flow_layer_0 = 97\\nmaterial_initial_pri
+;SETTING_3 nt_temperature = 250\\nmaterial_print_temperature = 250\\nminimum_int
+;SETTING_3 erface_area = 4\\nretraction_amount = 5\\nretraction_speed = 30\\nspe
+;SETTING_3 ed_print = 120\\nsupport_bottom_enable = False\\nsupport_infill_rate 
+;SETTING_3 = 8\\nsupport_interface_density = 75\\nsupport_interface_enable = Tru
+;SETTING_3 e\\nsupport_join_distance = 3\\nsupport_line_width = 0.2\\nsupport_pa
+;SETTING_3 ttern = gyroid\\nsupport_top_distance = 0.1\\nsupport_use_towers = Fa
+;SETTING_3 lse\\nsupport_wall_count = 1\\nsupport_xy_distance_overhang = 0.4\\ns
+;SETTING_3 upport_z_distance = 0.15\\ntop_bottom_pattern = lines\\ntop_bottom_pa
+;SETTING_3 ttern_0 = lines\\n\\n"], "global_quality": "[general]\\nversion = 4\\
+;SETTING_3 nname = nGen FLEX Default\\ndefinition = printrbot_simple\\n\\n[metad
+;SETTING_3 ata]\\nquality_type = normal\\ntype = quality_changes\\nsetting_versi
+;SETTING_3 on = 15\\n\\n[values]\\nacceleration_enabled = False\\nadhesion_type 
+;SETTING_3 = none\\njerk_enabled = False\\nlayer_height = 0.2\\nmaterial_bed_tem
+;SETTING_3 perature = 70\\nsupport_enable = False\\nsupport_type = everywhere\\n
+;SETTING_3 \\n"}
