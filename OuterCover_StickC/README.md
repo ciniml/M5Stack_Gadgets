@@ -1,12 +1,8 @@
-# M5Stack用TPUカバー
+# M5StickC用TPUカバー
 
 ## 概要
 
-![写真](M5Stack_Fire_OuterCover.JPG)
-
-![参考形状](M5Stack_Fire_OuterCover.png)
-
-M5Stack用のTPUカバー。各ポートにアクセスするための穴や首掛け用のストラップを付けられるストラップホールが付いている。
+M5StickC用のTPUカバー
 
 ## 内容
 
@@ -15,12 +11,9 @@ M5Stack用のTPUカバー。各ポートにアクセスするための穴や首�
 
 | 対象M5Stack | 形式 |
 |:-----|:------|
-| M5Stack BASIC/GRAY | [Design Spark Mechanical](M5Stack_Basic_OuterCover.rsdoc) |
-| M5Stack BASIC/GRAY | [STL](M5Stack_Basic_OuterCover.stl) |
-| M5Stack BASIC/GRAY | [Cura Project](PSME_M5Stack_Basic_OuterCover.3mf) |
-| M5Stack Go/Fire | [Design Spark Mechanical](M5Stack_Fire_OuterCover.rsdoc) |
-| M5Stack Go/Fire | [STL](M5Stack_Fire_OuterCover.stl) |
-| M5Stack Go/Fire | [Cura Project](PSME_M5Stack_Fire_OuterCover.3mf) |
+| M5StickC | [Design Spark Mechanical](M5StickC_OuterCover.rsdoc) |
+| M5StickC | [STL](M5StickC_OuterCover.stl) |
+| M5StickC | [Cura Project](PSME_M5StickC_OuterCover.3mf) |
 
 ## 確認環境
 
